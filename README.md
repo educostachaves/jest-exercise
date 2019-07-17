@@ -1,6 +1,6 @@
 # Jest Exercise
 
-This is a simple calculator app. You must to implement all the basic operations of a common calculator, and mock all unit tests for each operation using TDD. The level of abstraction in this implementation depends on you. Always keep in mind that you must to think through the tests before implementing the function. The purpose of this exercise is to practice TDD.
+This is a simple calculator app. You must to implement all the basic operations of a common calculator and all unit tests for each operation using TDD. The level of abstraction in this implementation depends on you. Always keep in mind that you must to think through the tests before implementing the function. The purpose of this exercise is to practice TDD.
 
 ## First of all
 
